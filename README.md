@@ -6,6 +6,7 @@
 * Create, update, delete articles 🖼️
 * React with 👍👎 reactions
 * Role model (superadmin, admin, user) 👪
+* Data caching in Redis ⚡
 
 ## TODO
 
