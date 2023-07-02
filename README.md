@@ -27,7 +27,8 @@
 1. `make env`
 2. `make dev`
 3. `make up-dev`
-4. `make run`
+4. `make migrate`
+5. `make run`
 
 Go to `http://localhost:8080/docs` to see open api docs
 
